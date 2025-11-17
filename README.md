@@ -1,1 +1,1 @@
-Flutter Small Applications for Mid-Exam Preparation.
+Lib Directory Contains Code Snippets from MAD Course(Fifth Semester).
